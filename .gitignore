@@ -1,0 +1,9 @@
+/.gradle/                                                                                                                                                  
+**/build
+*.iml
+*.iws
+*.ipr
+*generated-sources
+/.idea/
+out/
+logs/
