@@ -2,4 +2,4 @@ rootProject.name = 'datastructures'
 include ':trees'
 include ':common-utils'
 include ':stack'
-
+include ':linkedlist'
