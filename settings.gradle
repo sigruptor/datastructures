@@ -1,5 +1,6 @@
 rootProject.name = 'datastructures'
-include ':trees'
 include ':common-utils'
-include ':stack'
+include ':graph'
 include ':linkedlist'
+include ':stack'
+include ':trees'
