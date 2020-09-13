@@ -11,10 +11,7 @@ import java.util.List;
  * Email: abhishek_jhanwar@apple.com
  **/
 public class Stack<T> {
-
     private static final Logger logger = LogManager.getLogger(Stack.class);
-
-    T node;
     List<T> nodes;
     private int topIndex;
     private final int capacity;
